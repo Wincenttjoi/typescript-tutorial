@@ -14,11 +14,7 @@
 
 // add(number1, number2, printResult, resultPhrase);
 
-enum Role {
-    ADMIN,
-    READ_ONLY,
-    AUTHOR
-}
+enum Role { ADMIN,READ_ONLY, AUTHOR};
 
 const person = {
 //     name: string;
